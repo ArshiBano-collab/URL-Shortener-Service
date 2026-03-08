@@ -67,3 +67,19 @@ The application stores URL mappings in a table with the following fields:
 
 While building this project I learned how to create REST APIs using Spring Boot, how to connect a Spring Boot application with MySQL, how to structure backend applications using Controller, Service, and Repository layers, and how URL redirection works in web applications.
 
+## Running the Application
+
+The command is used to start the Spring Boot application using the Maven Wrapper.
+
+
+.\mvnw spring-boot:run
+
+
+This command compiles the project and runs the Spring Boot server locally.
+Once the application starts successfully, the backend service runs on:
+
+http://localhost:8080
+
+we can test the API using Postman or a web browser.
+
+
