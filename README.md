@@ -65,5 +65,5 @@ The application stores URL mappings in a table with the following fields:
 
 ## What I Learned
 
-While building this project I learned how to create REST APIs using Spring Boot, how to connect a Spring Boot application with MySQL, how to structure backend applications using Controller, Service, and Repository layers, and how URL redirection works in web applications.s
+While building this project I learned how to create REST APIs using Spring Boot, how to connect a Spring Boot application with MySQL, how to structure backend applications using Controller, Service, and Repository layers, and how URL redirection works in web applications.
 
