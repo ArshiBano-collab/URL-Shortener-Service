@@ -71,9 +71,7 @@ While building this project I learned how to create REST APIs using Spring Boot,
 
 The command is used to start the Spring Boot application using the Maven Wrapper.
 
-
 .\mvnw spring-boot:run
-
 
 This command compiles the project and runs the Spring Boot server locally.
 Once the application starts successfully, the backend service runs on:
