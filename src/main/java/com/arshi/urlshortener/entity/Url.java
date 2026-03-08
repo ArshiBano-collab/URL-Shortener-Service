@@ -44,4 +44,4 @@ public class Url {
     public void setClickCount(int clickCount) {
         this.clickCount = clickCount;
     }
-}.
+}
